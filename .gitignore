@@ -11,6 +11,8 @@
 # production
 /build
 
+/release-installer
+
 # misc
 .DS_Store
 .env.local
